@@ -1,2 +1,3 @@
 # Additel-Device-Communication
-Instructions and Examples to Help you Connect to Additel Devices with 3rd Party Software
+
+This repository has been moved [Serial here](https://github.com/Additel-Code/Additel-Device-Communication)
